@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=name\ type
+comment1.target=Deck(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ new\ deck\r\n\ @param\ name\r\n\ @param\ type\r\n
+comment2.params=c
+comment2.target=void\ addCard(Card)
+comment2.text=\r\n\ Add\ a\ new\ Card\r\n\ @param\ c\r\n
+comment3.params=
+comment3.target=int\ elixir()
+comment4.params=
+comment4.target=int\ knownElixir()
+comment4.text=\r\n\ Calculate\ the\ average\ elixir\ of\ the\ cards\ in\ the\ deck\ considering\ only\ the\ cards\ with\ valid\ values\r\n\ @return\r\n\ @throws\ ClashRoyaleException\ IMPOSSIBLE,\ If\ there\ are\ no\ valid\ values\r\n
+comment5.params=unknown\ error
+comment5.target=int\ estimateElixir(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=int\ resistance()
+comment7.params=
+comment7.target=java.lang.String\ data()
+numComments=8

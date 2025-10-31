@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DeckTest
+comment1.params=
+comment1.target=void\ shouldCalculateTheElixirOfADeck()
+comment2.params=
+comment2.target=void\ shouldThrowExceptionIfDeckHasNoCard()
+comment3.params=
+comment3.target=void\ shouldThrowExceptionIfThereIsErrorInElixir()
+comment4.params=
+comment4.target=void\ shouldThrowExceptionIfElixirIsNotKnown()
+numComments=5

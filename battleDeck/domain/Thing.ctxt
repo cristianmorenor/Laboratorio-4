@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Thing
+comment1.params=name\ type
+comment1.target=Thing(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ name()
+comment2.text=\r\n\ Return\ the\ name\r\n\ @return\r\n
+comment3.params=
+comment3.target=java.lang.String\ type()
+comment3.text=\r\n\ Return\ the\ type\r\n\ @return\r\n
+comment4.params=
+comment4.target=int\ elixir()
+comment4.text=\r\n\ Returns\ the\ elixir\ of\ a\ card\ or\ the\ average\ elixir\ of\ the\ cards\ in\ a\ deck\r\n\ @return\r\n\ @throws\ ClashRoyaleException,\ if\ any\ elixir\ data\ is\ unknown\ or\ has\ an\ error\r\n
+comment5.params=
+comment5.target=int\ resistance()
+comment5.text=\r\n\ Returns\ the\ resistance\ of\ a\ card\ or\ a\ deck\ \r\n\ @return\r\n\ @throws\ ClashRoyaleException,\ if\ the\ resistance\ cannot\ be\ calculate\r\n
+comment6.params=
+comment6.target=java.lang.String\ data()
+comment6.text=\r\n\ Return\ the\ representation\ as\ string\r\n\ @return\r\n\ @throws\ ClashRoyaleException,\ if\ the\ data\ has\ problems\ (some\ unknown\ or\ erroneous\ data)\r\n
+numComments=7
