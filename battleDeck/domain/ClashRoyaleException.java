@@ -14,6 +14,7 @@ public class ClashRoyaleException extends Exception {
     public static final String RESISTANCE_UNKNOWN = "Resistencia desconocida";
     public static final String RESISTANCE_ERROR = "Error en valor de resistencia";
     public static final String IMPOSSIBLE = "Operación imposible";
+    public static final String PARAMETER_ERROR = "Parámetro inválido";
 
     /**
      * Constructor que recibe el mensaje de error
