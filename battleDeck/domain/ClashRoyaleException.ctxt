@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=ClashRoyaleException
+comment0.text=\r\n\ Exception\ class\ for\ Clash\ Royale\ application\ errors\r\n\ \r\n\ @author\ MorenoRubiano\r\n\r\n
 comment1.params=message
 comment1.target=ClashRoyaleException(java.lang.String)
-comment2.params=message\ cause
-comment2.target=ClashRoyaleException(java.lang.String,\ java.lang.Throwable)
-numComments=3
+comment1.text=\r\n\ Constructor\ que\ recibe\ el\ mensaje\ de\ error\r\n\ \r\n\ @param\ message\ El\ mensaje\ descriptivo\ del\ error\r\n
+numComments=2
